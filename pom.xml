@@ -54,7 +54,12 @@
     <groupId>com.vimalselvam</groupId>
     <artifactId>cucumber-extentsreport</artifactId>
     <version>3.1.0</version>
-</dependency> 
+</dependency>
+      <dependency>
+    <groupId>net.masterthought</groupId>
+    <artifactId>cucumber-reporting</artifactId>
+    <version>(check version above)</version>
+</dependency>
   </dependencies>
   <build>
     <plugins>
